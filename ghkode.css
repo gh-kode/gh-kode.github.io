@@ -4,3 +4,85 @@
 #bg-blue {
   background-color: blue;
 }
+#bg-green {
+  background-color: green;
+}
+#bg-orange {
+  background-color: orange;
+}
+#txt-left {
+  text-allign: left;
+}
+#txt-right {
+  text-allign: right;
+}
+#txt-center {
+  text-allign: center;
+}
+#txt-black {
+  color: black;
+}
+#txt-blue {
+  color: blue;
+}
+#txt-green {
+  color: green;
+}
+#txt-yellow {
+  color: yellow;
+}
+#txt-orange {
+  color: orange;
+}
+#gh-button-round {
+  padding: 1%;
+  border-radius: 25px;
+}
+#gh-button-round-black {
+  padding: 1%;
+  border-radius: 25px;
+  color: white;
+  background-color: black;
+}
+#gh-button-round-white {
+  padding: 1%;
+  border-radius: 25px;
+  color: black;
+  background-color: white;
+}
+#gh-button-round-orange {
+  padding: 1%;
+  border-radius: 25px;
+  color: white;
+  background-color: orange;
+}
+#gh-button-round-red {
+  padding: 1%;
+  border-radius: 25px;
+  color: white;
+  background-color: red;
+}
+#gh-button-round-green {
+  padding: 1%;
+  border-radius: 25px;
+  color: white;
+  background-color: green;
+}
+#gh-button-square {
+  padding: 1%;
+}
+#gh-button-square-black {
+  padding: 1%;
+  color: white;
+  background-color: black;
+}
+#gh-button-square-white {
+  padding: 1%;
+  color: black;
+  background-color: white;
+}
+#gh-button-square-orange {
+  padding: 1%;
+  color: white;
+  background-color: orange;
+}
